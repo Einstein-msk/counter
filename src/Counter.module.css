@@ -1,0 +1,67 @@
+.counter {
+    margin: auto auto;
+    border: 1px solid cyan;
+    width:200px;
+    height: auto;
+    background-color: #fcfafa;
+}
+
+.counterLet {
+    border: 1px solid cyan;
+    width: 170px;
+    height: 70px;
+    margin: 10px auto 10px;
+    background-color: #3a3246;
+    font-size: 30px;
+    color: cyan;
+    text-align: center;
+    vertical-align: auto;
+}
+
+.buttonsBlock {
+    display: flex;
+    border: 1px solid cyan;
+    width:170px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    background-color: #3a3246;
+    align-items: center ;
+}
+
+.buttons {
+    /*display: flex;*/
+    /*align-items: center;*/
+    margin:auto;
+    background-color: cyan;
+
+}
+
+.warningRed {
+    border: 1px solid cyan;
+    width: 170px;
+    height: 70px;
+    margin: 10px auto 10px;
+    background-color: cyan;
+    color:red;
+    font-size: 30px;
+    text-align: center;
+}
+
+.valuesError {
+    border: 1px solid cyan;
+    width: 170px;
+    height: 70px;
+    margin: 10px auto 10px;
+    background-color: cyan;
+    color:red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.setInput {
+    height: 30px;
+
+    margin: auto;
+}
